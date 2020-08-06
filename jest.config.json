@@ -1,0 +1,9 @@
+{
+	"roots": [
+		"components/",
+		"lib/",
+		"pages/"
+	],
+	"collectCoverageFrom": ["**/*.{tsx,jsx,ts,js}"],
+	"coverageReporters": ["json", "html"]
+}
